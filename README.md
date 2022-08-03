@@ -4,9 +4,8 @@
 
 ## クロスバリデーションのテンプレ
 
-- kaggleでよく使う交差検証テンプレ(LightGBM向け)
-CV実装に迷ったらコピペ
-https://amateur-engineer-blog.com/kaggle-cv-template-lightgbm/
+- [kaggleでよく使う交差検証テンプレ(LightGBM向け)](https://amateur-engineer-blog.com/kaggle-cv-template-lightgbm/)
+ - CV実装に迷ったらコピペ
 
 ## Pandas
 - Pandas_Cheat_Sheet.pdf 
