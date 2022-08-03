@@ -1,6 +1,10 @@
-# よく使うプログラムのまとめ
+# よく使うプログラムまとめ
 
-## モデルのまとめ
+## ライブラリのドキュメント
+* [XGBoostドキュメント](https://xgboost.readthedocs.io/en/stable/index.html)
+* [CatBoostドキュメント](https://catboost.ai/en/docs/)
+* [LightGBMドキュメント](https://lightgbm.readthedocs.io/en/latest/index.html)
+* [scikit-learn](https://scikit-learn.org/stable/index.html)
 
 ## クロスバリデーションのテンプレ
 
